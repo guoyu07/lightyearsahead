@@ -1,0 +1,32 @@
+Mac OS X
+"Lightning fast performance combined with UNIX certification."
+"The world’s most advanced operating system with the best UI ever built."
+"If you don’t have a Mac, you simply don’t have a Mac."
+iOS
+"The productivity of Apple right into a mobile OS."
+"When it comes to phones, I rock the stage."
+"The only thing that has changed is everything."
+Android
+"Apps does all the thing that is meant to be done by me."
+"I thank those people at the Google I/O Developer conference who made me."
+"Everybody likes me because I am over-customizable."
+Windows Mobile
+"I am smarter than I am thought to be."
+"It’s not always that my sales witness the lower stakes. Trust me."
+"My dad, Microsoft is a part of everybody’s ever-changing lives."
+Linux
+"I love open source."
+"I am the developer’s best friend."
+"Swaggering is a part of my everyday life."
+Blackberry 10
+"Business, is what is meant by me."
+"Even I am built from Android."
+"Those working at Fortune 500 companies cannot forget me."
+Windows
+"I am every stereotype’s best friend."
+"The multi-purpose people's beset computer OS."
+"Trust me, I am more useful than anything else around you."
+Unknown
+"I am more popular than anybody else."
+"I am more useful than anything else."
+"Trust me, I do not love popularity."
