@@ -30,4 +30,7 @@
 <servlet> <servlet-name>Operand</servlet-name> <servlet-class>tk.swghosh.web.OperandServlet</servlet-class> </servlet>  
 <servlet-mapping> <servlet-name>Operand</servlet-name> <url-pattern></url-pattern> </servlet-mapping>
 
+<servlet> <servlet-name>Christmas</servlet-name> <servlet-class>tk.swghosh.web.ChristmasServlet</servlet-class> </servlet>  
+<servlet-mapping> <servlet-name>Christmas</servlet-name> <url-pattern>/Christmas</url-pattern> </servlet-mapping>
+
 </web-app>
