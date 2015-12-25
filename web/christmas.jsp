@@ -35,7 +35,7 @@
 			function show() {
 				document.getElementById("part1").style.display="block";
 				document.getElementById("part2").style.display="none";
-				setTimeout("hide()", 5000); //5 Seconds
+				setTimeout("hide()", 10000); //10 Seconds
 			}
 			
 			function hide() {
